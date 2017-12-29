@@ -1,4 +1,5 @@
 # Table of content
+
 * [1. Getting Started](Getting-Started.md)
 
 * [2. Interaction with the chart](Interaction-with-the-Chart.md)

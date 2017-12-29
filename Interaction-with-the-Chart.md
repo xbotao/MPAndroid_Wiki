@@ -1,3 +1,5 @@
+# Interaction-with-the-Chart
+
 This library allows you to fully customize the possible touch (and gesture) interaction with the chart-view and react to the interaction via callback-methods.
 
 ### Enabling / disabling interaction
