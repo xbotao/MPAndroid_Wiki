@@ -1,4 +1,4 @@
-# First Chapter
+# Getting-Started
 
 This chapter covers the basic setup for using this library.
 
