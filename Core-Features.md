@@ -1,0 +1,27 @@
+This page lists the most important core features of **MPAndroidChart**.
+
+ - Many different chart types: LineChart, BarChart (vertical, horizontal, stacked, grouped), PieChart, ScatterChart, CandleStickChart (for financial data), RadarChart (spider web chart), BubbleChart
+ - Combined Charts (e.g. lines and bars in one)
+ - Scaling on both axes (with touch-gesture, axes separately or pinch-zoom)
+ - Dragging / Panning (with touch-gesture)
+ - Separate (dual) y-axes
+ - Highlighting values (with customizeable **popup-views**)
+ - Save chart to SD-Card (as image)
+ - Predefined color templates
+ - Legends (generated automatically, customizeable)
+ - Customizeable Axes (both x- and y-axis)
+ - Animations (build up animations, on both x- and y-axis)
+ - Limit lines (providing additional information, maximums, ...)
+ - Listeners for touch, gesture & selection callbacks
+ - Fully customizeable (paints, typefaces, legends, colors, background, dashed lines, ...)
+ - [Realm.io](https://realm.io) mobile database support via [MPAndroidChart-Realm](https://github.com/PhilJay/MPAndroidChart-Realm) library
+ - Smooth rendering for up to **10.000** data points in Line- and BarChart
+ - Lightweight (method count ~1.4K)
+ - Available as **.jar file** (only 500kb in size)
+ - Available as **gradle dependency** and via **maven**
+ - Good [documentation][1]
+ - [Example Project][2] (code for demo-application)
+ - [Google-PlayStore Demo Application](https://play.google.com/store/apps/details?id=com.xxmassdeveloper.mpchartexample)
+ - Widely used, great support on both [GitHub](https://github.com/PhilJay/MPAndroidChart/issues) and stackoverflow - [mpandroidchart](https://stackoverflow.com/questions/tagged/mpandroidchart)
+ - Also available for **iOS**: [Charts](https://github.com/danielgindi/Charts) (API works the same way)
+ - Also available for **Xamarin**: [MPAndroidChart.Xamarin](https://github.com/Flash3001/MPAndroidChart.Xamarin)
