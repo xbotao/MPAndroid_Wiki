@@ -1,57 +1,54 @@
 # Table of content
-
-* [Getting-Started](Getting-Started.md)
-
 * [1. Getting Started](Getting-Started.md)
 
-- [2. Interaction with the chart](https://github.com/PhilJay/MPAndroidChart/wiki/Interaction-with-the-Chart)
+* [2. Interaction with the chart](Interaction-with-the-Chart.md)
 
-- [3. Highlighting Values](https://github.com/PhilJay/MPAndroidChart/wiki/Highlighting)
+* [3. Highlighting Values](Highlighting.md)
 
-- [4. The Axis (AxisBase)](https://github.com/PhilJay/MPAndroidChart/wiki/The-Axis)
+* [4. The Axis (AxisBase)](The-Axis.md)
 
-- [5. XAxis](https://github.com/PhilJay/MPAndroidChart/wiki/XAxis)
+* [5. XAxis](XAxis.md)
 
-- [6. YAxis](https://github.com/PhilJay/MPAndroidChart/wiki/YAxis)
+* [6. YAxis](YAxis.md)
 
-- [7. Setting Data](https://github.com/PhilJay/MPAndroidChart/wiki/Setting-Data)
+* [7. Setting Data](Setting-Data.md)
 
-- [8. Setting Colors](https://github.com/PhilJay/MPAndroidChart/wiki/Setting-Colors)
+* [8. Setting Colors](Setting-Colors.md)
 
-- [9. Formatting Data Values (ValueFormatter)](https://github.com/PhilJay/MPAndroidChart/wiki/The-ValueFormatter-interface)
+* [9. Formatting Data Values (ValueFormatter)](The-ValueFormatter-interface.md)
 
-- [10. Formatting Axis Values (AxisValueFormatter)](https://github.com/PhilJay/MPAndroidChart/wiki/The-AxisValueFormatter-interface)
+* [10. Formatting Axis Values (AxisValueFormatter)](The-AxisValueFormatter-interface.md)
 
-- [11. General Settings & Styling](https://github.com/PhilJay/MPAndroidChart/wiki/General-Chart-Settings-&-Styling)
+* [11. General Settings & Styling](General-Chart-Settings-&-Styling.md)
 
-- [12. Specific Settings & Styling](https://github.com/PhilJay/MPAndroidChart/wiki/Specific-Chart-Settings-&-Styling)
+* [12. Specific Settings & Styling](Specific-Chart-Settings-&-Styling.md)
 
-- [13. Legend](https://github.com/PhilJay/MPAndroidChart/wiki/Legend)
+* [13. Legend](Legend.md)
 
-- [14. Dynamic & Realtime Data](https://github.com/PhilJay/MPAndroidChart/wiki/Dynamic-&-Realtime-Data)
+* [14. Dynamic & Realtime Data](Dynamic-&-Realtime-Data.md)
 
-- [15. Modifying the Viewport](https://github.com/PhilJay/MPAndroidChart/wiki/Modifying-the-Viewport)
+* [15. Modifying the Viewport](Modifying-the-Viewport.md)
 
-- [16. Animations](https://github.com/PhilJay/MPAndroidChart/wiki/Animations)
+* [16. Animations](Animations.md)
 
-- [17. MarkerView (Popup View)](https://github.com/PhilJay/MPAndroidChart/wiki/IMarker-Interface)
+* [17. MarkerView (Popup View)](IMarker-Interface.md)
 
-- [18. The ChartData class](https://github.com/PhilJay/MPAndroidChart/wiki/The-ChartData-class)
+* [18. The ChartData class](The-ChartData-class.md)
 
-- [19. ChartData subclasses](https://github.com/PhilJay/MPAndroidChart/wiki/Data-classes-in-detail)
+* [19. ChartData subclasses](Data-classes-in-detail.md)
 
-- [20. The DataSet class (general DataSet styling)](https://github.com/PhilJay/MPAndroidChart/wiki/The-DataSet-class)
+* [20. The DataSet class (general DataSet styling)](The-DataSet-class.md)
 
-- [21. DataSet subclasses (specific DataSet styling)](https://github.com/PhilJay/MPAndroidChart/wiki/DataSet-classes-in-detail)
+* [21. DataSet subclasses (specific DataSet styling)](DataSet-classes-in-detail.md)
 
-- [22. The ViewPortHandler](https://github.com/PhilJay/MPAndroidChart/wiki/The-ViewPortHandler)
+* [22. The ViewPortHandler](The-ViewPortHandler.md)
 
-- [23. Customizing the Fill-Line-Position (FillFormatter)](https://github.com/PhilJay/MPAndroidChart/wiki/FillFormatter)
+* [23. Customizing the Fill-Line-Position (FillFormatter)](FillFormatter.md)
 
-- [24. Proguard](https://github.com/PhilJay/MPAndroidChart/wiki/Proguard)
+* [24. Proguard](Proguard.md)
 
-- [25. Realm.io mobile database](https://github.com/PhilJay/MPAndroidChart/wiki/Realm.io-database-integration)
+* [25. Realm.io mobile database](Realm.io-database-integration.md)
 
-- [26. Creating your own (custom) DataSets](https://github.com/PhilJay/MPAndroidChart/wiki/Custom-DataSets)
+* [26. Creating your own (custom) DataSets](Custom-DataSets.md)
 
-- [27. Miscellaneous (more useful stuff)](https://github.com/PhilJay/MPAndroidChart/wiki/Miscellaneous)
+* [27. Miscellaneous (more useful stuff)](Miscellaneous.md)
